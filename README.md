@@ -1,4 +1,4 @@
-# Ecommerce Lakehouse Pipeline (PySpark + Delta Lake)
+# Ecommerce Lakehouse Pipeline (Databricks + PySpark + Delta Lake)
 
 ## Overview
 This project implements an end-to-end Databricks Lakehouse pipeline using
